@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+		
+		<Preference
+			android:key="aut"
+			android:title="作者"
+			android:summary="犯二的二(一个满奶子骚操作的男人)"/>
+		<Preference
+			android:key="abo"
+			android:title="软件说明"
+			/>
+		
+	</PreferenceScreen>

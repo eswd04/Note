@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item
+		android:icon="?attr/actionModeSelectAllDrawable"
+		android:id="@+id/selectAll"
+		android:title="全选"/>
+    <item
+        android:id="@+id/actionCopy"
+		android:icon="@mipmap/ic_content_copy_white_24dp"
+        android:title="复制"/>
+    <item
+		android:icon="@mipmap/ic_delete_white_24dp"
+        android:id="@+id/delete"
+        android:title="删除"/>
+   
+</menu>

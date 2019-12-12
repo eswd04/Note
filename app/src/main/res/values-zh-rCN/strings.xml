@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">轻记事</string>
+	<string name="message">1、长按进入多选模式\n2、新增侧滑删除\n3、新增内容导出功能\n4、新增撤销操作\n5、交流点击前一项</string>
+	<string name="ftitle">欢迎！</string>
+	<string name="fmessage">欢迎使用这款app，如果你喜欢这款应用，请给我一个赞。\n  操作说明：\n 1、长按进入多选模式\n2、点击上一条和我聊天\n3、全选和反选尚未添加，后续会进行添加\n4、新增侧滑删除\n5、新增内容导出功能\n6、新增撤销操作</string>
+	<string name="tfeature">新特性！</string>
+	<string name="mfeature">* 添加提醒功能 *</string>
+	<string name="add">新记事</string>
+	<string name="save">保存并退出</string>
+</resources>

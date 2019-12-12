@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android" >
+	<shortcut
+		android:shortcutId="add_website" 
+		android:icon="@mipmap/ic_l_edit_light"  
+		android:shortcutShortLabel="@string/add"
+		android:shortcutLongLabel="@string/add" 
+    >
+		<intent 
+			android:action="android.intent.action.VIEW"
+			android:targetPackage="com.mynotead.md" 
+			android:targetClass="com.mynotead.md.AddNote" 
+        />
+	</shortcut>
+</shortcuts>

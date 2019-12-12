@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Light Notepad</string>
+	<string name="ftitle">Welcome!</string>
+	<string name="fmessage">Welcome to use this Application!This is my personal app,you can give me a 🌟.Thank you\nLong press to see more features </string>
+	<string name="tfeature">New Features!</string>
+	<string name="mfeature">* Add reminder *</string>
+	<string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+	<string name="add">add Note</string>
+	<string name="save">Save&amp;Exit</string>
+</resources>
